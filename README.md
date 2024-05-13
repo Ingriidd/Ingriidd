@@ -5,7 +5,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/ingriiddd/ingriidd/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/ingriidd/ingriidd/blob/main/img/header2.png?raw=true"/>
 </div>
 
 -----
@@ -16,29 +16,29 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/ingriidd" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/ingriidd" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://replit.com/@ingriidd"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://replit.com/@ingriidd"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:ingridaparecidamg@gmail.com" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:ingridaparecidamg@gmail.com" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531992693652" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531992693652" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/_ingridaparecidaa/" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/_ingridaparecidaa/" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/ingridaparecida/" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/ingridaparecida/" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/ingriiddingriiddd/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
+<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/ingriidd/" target="_blank"><img src="https://github.com/ingriidd/ingriiddd/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/ingriidd/" target="_blank"><img src="https://github.com/ingriidd/ingriidd/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
