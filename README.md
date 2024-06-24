@@ -28,6 +28,9 @@ E-mail: ingridapareidamg@gmail.com
 🛠️ Tecnologias: Java, Xampp
 
 🎨 Um pouco sobre meus hobbies
+
 🎮 Jogos: [2048, Roblox e GTA]
+
 🎵 Música: [Pop, rap, trap, pagode e sertanejo.]
+
 📚 Leitura: [William Shakespeare, Carlos Drummon e Mario Quintana]
