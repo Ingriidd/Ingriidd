@@ -4,14 +4,14 @@
 
 -----
 
-Olá, eu sou [Ingrid]! 👋
+Olá, eu sou Ingrid! 👋
 
 🚀 Sobre Mim
-🎓 Formação: Graduando em [Engenharia da compuação] pela [Universidade Newton Paiva]. <br>
-💼 Atualmente: [atuo como auxiliar administrativo] na [RottaMaster Express e Logistica]. <br>
+🎓 Formação: Graduando em Engenharia da compuação pela Universidade Newton Paiva. <br>
+💼 Atualmente: atuo como auxiliar administrativo na RottaMaster Express e Logistica. <br>
 🧠 Interesses: Tecnologia, Desenvolvimento de Software, IA, Design Gráfico e Marketing. <br>
-🌱 Atualmente Estudando: [Linguagens de Programação, Analises de Dados, Calculo I e II e Médidas Eletricas]. <br>
-⚡ Fatos Curiosos: Adoro [jogar 2048].
+🌱 Atualmente Estudando: Linguagens de Programação, Analises de Dados, Calculo I e II e Médidas Eletricas. <br>
+⚡ Fatos Curiosos: Adoro jogar 2048.
 
 🛠️ Tecnologias & Ferramentas
 
