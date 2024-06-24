@@ -18,18 +18,16 @@ Olá, eu sou Ingrid! 👋
 
 
 
-📈 Estatísticas do GitHub
 
-📫 Contato
-LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/ingrid-aparecida-166304228/)
+📫 Contato:
+LinkedIn: [Clique aqui](https://www.linkedin.com/in/ingrid-aparecida-166304228/)
+
 E-mail: ingridapareidamg@gmail.com
 
 
 🛠️ Tecnologias: Java, Xampp
 
-🚀 Funcionalidades: [Funcionalidades principais]
-🌐 Link: Link para o projeto
 🎨 Um pouco sobre meus hobbies
-🎮 Jogos: [Seus jogos favoritos]
-🎵 Música: [Seus estilos musicais ou artistas favoritos]
-📚 Leitura: [Seus livros ou autores favoritos]
+🎮 Jogos: [2048, Roblox e GTA]
+🎵 Música: [Pop, rap, trap, pagode e sertanejo.]
+📚 Leitura: [William Shakespeare, Carlos Drummon e Mario Quintana]
