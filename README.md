@@ -2,10 +2,9 @@
 
 -----
 
-<video width="100%" height="auto" autoplay loop muted>
-  <source src="https://github.com/Ingriidd/Imgens/blob/main/Banner%20Ingrid.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div>
+<img align="center" alt="Header" src="https://github.com/Ingriidd/Imgens/blob/main/Ingrid%20banner.png?raw=true"/>
+</div>
 
 -----
 
