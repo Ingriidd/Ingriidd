@@ -1,6 +1,6 @@
 # Olá! Eu sou Ingrid 👋
 
-![Welcome GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) <iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
+![Welcome GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ296czVyOTBkcG0xY2ppbDI0Y2h0N3FvcTd1dG42ZGF5d28zYWs0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif
 
 > "Nós somos do mesmo tecido dos sonhos." - William Shakespeare
 
