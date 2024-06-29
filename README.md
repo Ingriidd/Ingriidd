@@ -8,16 +8,14 @@ Sou uma aprendiz desenvolvedora apaixonada por tecnologia e inovação.
 
 ## 🧑‍💻 Sobre Mim
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
-  <p style="margin-left: 20px;">
-
 ![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade Newton Paiva. Atualmente, atuo como auxiliar administrativo na empresa RottaMaster Express e Logística. Aqui estão algumas das minhas principais habilidades e interesses:
 
 - 🔭 Atualmente estou trabalhando em https://github.com/Ingriidd/Pizzaria
-- 🌱 Atualmente estou aprendendo Linguagens de Programação, Análises de Dados, Cálculo I e II e Medidas Elétricas.
+- 🌱 Atualmente estou aprendendo Linguagens de Programação, Análises de Dados, Cálculo I e II e Medidas Elétricas.                                 <div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
+  <p style="margin-left: 20px;">
 - 👯 Estou procurando aprender mais sobre projetos de Desenvolvimento de Software e IA.
 - 💬 Meus maiores interesse são: tecnologia, design gráfico e marketing digital.
 - 📹 Me aventuro como videomaker e modelo por diversão. 
