@@ -1,5 +1,3 @@
-<!-- Banner de Apresentação -->
-![Banner de Apresentação](https://www.canva.com/design/DAGJfEDko6E/3g1FxbVdX3CRDdRSNd2gKw/edit?utm_content=DAGJfEDko6E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 # Olá! Eu sou Ingrid 👋
 
@@ -26,7 +24,7 @@ Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade 
 ## 🛠️ Habilidades
 
 - **Linguagens:** JavaScript e C++
-- **Banco de dados:* Xampp
+- **Banco de dados:** Xampp
 
 ## 📈 Estatísticas do GitHub
 
@@ -48,8 +46,8 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 ## 🌐 Conecte-se Comigo
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/ingrid-aparecida-166304228/))
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-aparecida-166304228/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](ingridaparecidamg@gmail.com)
 
 ## ✨ Curiosidades
 
