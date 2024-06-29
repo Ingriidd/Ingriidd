@@ -2,9 +2,10 @@
 
 -----
 
-<div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header_aramuni.png?raw=true"/>
-</div>
+<video width="100%" height="auto" autoplay loop muted>
+  <source src="https://github.com/Ingriidd/Imgens/blob/main/Banner%20Ingrid.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 -----
 
@@ -74,10 +75,6 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 - [**Projeto 3**](https://github.com/seuprojeto3) - Descrição breve do projeto.
 ![Project GIF](https://media.giphy.com/media/3o6gDUfmjGOPlZRave/giphy.gif)
 
-## 🌐 Conecte-se Comigo
-
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-aparecida-166304228/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](ingridaparecidamg@gmail.com)
 
 ## ✨ Curiosidades
 
