@@ -70,7 +70,7 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 - [**Projeto 1**](https://github.com/Ingriidd/Pizzaria) - Desenvolvido para uma pizzaria mas abstrai qualquer estabelecimento comercial que permite ao cliente fazer pedidos e somente retirar ou pedir que seu pedido seja entregue em sua residência. O sistema apresenta views práticas e objetivas e uma ágil função de busca para clientes já cadastrados desobrigando o cliente a passar o endereço todas as vezes que realizar um pedido. Foi implementado um sólido sistema de gerenciamento de produtos e funcionários e um breve organizador de entregas de acordo com a disponibilidade de cada entregador.
   
-![Project GIF](ps://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Login.PNG)
+![Project GIF](https://github.com/seuprojeto2)
 
 - [**Projeto 2**](https://github.com/seuprojeto2) - Descrição breve do projeto.
   
