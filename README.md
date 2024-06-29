@@ -45,17 +45,17 @@ Sou uma aprendiz desenvolvedora apaixonada por tecnologia e inovação.
 Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade Newton Paiva. Atualmente, atuo como auxiliar administrativo na empresa RottaMaster Express e Logística. Aqui estão algumas das minhas principais habilidades e interesses:
 
 - 🔭 Atualmente estou desenvolvendo https://github.com/Ingriidd/Pizzaria
-- 🌱 Atualmente estou aprendendo Linguagens de Programação, Análises de Dados, Cálculo I e II e Medidas Elétricas.                                 
+- 🌱 Nesse semestre estou aprendendo Linguagens de Programação, Análises de Dados, Cálculo I e II e Medidas Elétricas.                                 
 - 👯 Estou procurando aprender mais sobre projetos de Desenvolvimento de Software e IA.
-- 💬 Meus maiores interesse são: tecnologia, design gráfico e marketing digital.
+- 💬 Meus maiores interesse são: tecnologia de modo geral, design gráfico, arquitetura e marketing digital.
 - 📹 Me aventuro como videomaker e modelo por diversão. 
-- 📫 Como me encontrar: ingridaparecidamg@gmail.com
-- ⚡ Curiosidade: encantada pelo mundo da estética
+- ⚡ Curiosidade: sou encantada pelo mundo da moda, beleza e estética.
 
 ## 🛠️ Habilidades
 
-- **Linguagens:** JavaScript e C++
-- **Banco de dados:** Xampp
+- **Linguagens:** JavaScript e C++.
+- **Banco de dados:** Xampp.
+- **Design:** Canva e Adobo Photoshop.
 
 ## 📈 Estatísticas do GitHub
 
