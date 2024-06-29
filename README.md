@@ -10,7 +10,7 @@ Olá, eu sou Ingrid! 👋
 💼 Atualmente: atuo como auxiliar administrativo pela empresa RottaMaster Express e Logistica. <br>
 🧠 Interesses: Tecnologia, Desenvolvimento de Software, IA, Design Gráfico e Marketing. <br>
 🌱 Atualmente Estudando: Linguagens de Programação, Analises de Dados, Calculo I e II e Médidas Eletricas. <br>
-⚡ Fatos Curiosos: Adoro jogar 2048.
+⚡ Fatos Curiosos: Apaixonada por gatos e pela mundo de estetica.
 
 🛠️ Tecnologias & Ferramentas
 
