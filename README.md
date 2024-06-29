@@ -69,10 +69,15 @@ Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade 
 Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 - [**Projeto 1**](https://github.com/Ingriidd/Pizzaria) - Desenvolvido para uma pizzaria mas abstrai qualquer estabelecimento comercial que permite ao cliente fazer pedidos e somente retirar ou pedir que seu pedido seja entregue em sua residência. O sistema apresenta views práticas e objetivas e uma ágil função de busca para clientes já cadastrados desobrigando o cliente a passar o endereço todas as vezes que realizar um pedido. Foi implementado um sólido sistema de gerenciamento de produtos e funcionários e um breve organizador de entregas de acordo com a disponibilidade de cada entregador.
+  
 ![Project GIF]([https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://raw.githubusercontent.com/dcresnitzky/LCP/master/Uml_final.PNG))
+
 - [**Projeto 2**](https://github.com/seuprojeto2) - Descrição breve do projeto.
+  
 ![Project GIF](https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif)
+
 - [**Projeto 3**](https://github.com/seuprojeto3) - Descrição breve do projeto.
+  
 ![Project GIF](https://media.giphy.com/media/3o6gDUfmjGOPlZRave/giphy.gif)
 
 
@@ -90,5 +95,5 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 Obrigado por visitar meu perfil! Se você quiser colaborar ou apenas bater um papo, sinta-se à vontade para me contatar.
 
-[![Robot GIF](https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png)
+![Robot GIF](https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png)
 
