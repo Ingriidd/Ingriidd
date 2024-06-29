@@ -14,11 +14,11 @@ Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade 
 
 - 🔭 Atualmente estou trabalhando em https://github.com/Ingriidd/Pizzaria
 - 🌱 Atualmente estou aprendendo Linguagens de Programação, Análises de Dados, Cálculo I e II e Medidas Elétricas.
-- 👯 Estou procurando aprender mais e sobre projetos de Desenvolvimento de Software e IA.
+- 👯 Estou procurando aprender mais sobre projetos de Desenvolvimento de Software e IA.
 - 💬 Meus maiores interesse são: tecnologia, design gráfico e marketing digital.
 - 📹 Me aventuro como videomaker e modelo por diversão. 
 - 📫 Como me encontrar: ingridaparecidamg@gmail.com
-- ⚡ Curiosidade: Apaixonada por gatos e encantada pelo mundo da estética
+- ⚡ Curiosidade: encantada pelo mundo da estética
 
 ## 🛠️ Habilidades
 
@@ -45,19 +45,18 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 ## 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/ingrid-aparecida-166304228/))
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu_perfil)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
 
 ## ✨ Curiosidades
 
-- 💡 Adoro resolver quebra-cabeças e desafios de lógica.
-- 🌍 Sou mineira e adoro aprender sobre novas culturas.
-- 🎨 No meu tempo livre, gosto de pintar e desenhar.
+- 🌍 Sou mineira e gosto aprender sobre novas culturas.
+- 🎨 No meu tempo livre, gosto de assistir a filmes de ficção científica e romance.
 - 🐱 Apaixonada por gatos.
-- 🎮 Gosto de animais e de jogar.
+- ☕ Nunca dispenso um bom cafezinho
 - 💙 Meu time é o Cruzeirão Cabuloso.
-- 📚 Meus autores preferidos são William Shakespeare, Carlos Drummond e Mario Quintana.
+- 📚 Meus autores preferidos são: William Shakespeare, Carlos Drummond e Mario Quintana.
 - 🦸‍♂️ Gosto da Marvel e meu herói favorito é o Homem de Ferro.
 
 ---
