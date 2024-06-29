@@ -29,7 +29,10 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
+
+ 
 # Olá! Eu sou Ingrid 👋
+
 
 ![Welcome GIF](https://media.giphy.com/media/ZDxrPdX4Au7St8r36N/giphy.gif)
 
@@ -76,6 +79,8 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 
 ## ✨ Curiosidades
+
+![Developer Coffee GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 - 🌍 Sou mineira e gosto aprender sobre novas culturas.
 - 🎨 No meu tempo livre, gosto de assistir a filmes de ficção científica e romance.
