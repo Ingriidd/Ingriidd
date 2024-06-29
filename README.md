@@ -65,5 +65,5 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 Obrigado por visitar meu perfil! Se você quiser colaborar ou apenas bater um papo, sinta-se à vontade para me contatar.
 
-![Robot GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Robot GIF](https://tenor.com/bfxl4.gif)
 
