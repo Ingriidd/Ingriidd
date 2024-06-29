@@ -1,12 +1,16 @@
 # Olá! Eu sou Ingrid 👋
 
-![Welcome GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) ![Cat GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ296czVyOTBkcG0xY2ppbDI0Y2h0N3FvcTd1dG42ZGF5d28zYWs0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/ZDxrPdX4Au7St8r36N/giphy.gif)
 
 > "Nós somos do mesmo tecido dos sonhos." - William Shakespeare
 
 Sou uma aprendiz desenvolvedora apaixonada por tecnologia e inovação.
 
 ## 🧑‍💻 Sobre Mim
+
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
+  <p style="margin-left: 20px;">
 
 ![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
