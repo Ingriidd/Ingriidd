@@ -78,8 +78,6 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 ## ✨ Curiosidades
 
-![Developer Coffee GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
 - 🌍 Sou mineira e gosto aprender sobre novas culturas.
 - 🎨 No meu tempo livre, gosto de assistir a filmes de ficção científica e romance.
 - 🐱 Apaixonada por gatos.
