@@ -42,8 +42,6 @@ Sou uma aprendiz desenvolvedora apaixonada por tecnologia e inovação.
 
 ## 🧑‍💻 Sobre Mim
 
-![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
-
 Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade Newton Paiva. Atualmente, atuo como auxiliar administrativo na empresa RottaMaster Express e Logística. Aqui estão algumas das minhas principais habilidades e interesses:
 
 - 🔭 Atualmente estou trabalhando em https://github.com/Ingriidd/Pizzaria
@@ -94,5 +92,5 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 Obrigado por visitar meu perfil! Se você quiser colaborar ou apenas bater um papo, sinta-se à vontade para me contatar.
 
-[![Robot GIF]([https://tenor.com/bfxl4.gif](https://media1.tenor.com/m/3JL4jb4EKDoAAAAC/jordi-baste-tv3.gif))](https://media1.tenor.com/m/3JL4jb4EKDoAAAAC/jordi-baste-tv3.gif)
+[![Robot GIF](https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png)
 
