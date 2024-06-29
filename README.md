@@ -65,5 +65,5 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 Obrigado por visitar meu perfil! Se você quiser colaborar ou apenas bater um papo, sinta-se à vontade para me contatar.
 
-![Robot GIF](https://tenor.com/bfxl4.gif)
+![Robot GIF]([https://tenor.com/bfxl4.gif](https://media1.tenor.com/m/3JL4jb4EKDoAAAAC/jordi-baste-tv3.gif))
 
