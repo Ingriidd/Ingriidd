@@ -4,7 +4,7 @@
 
 > "Nós somos do mesmo tecido dos sonhos." - William Shakespeare
 
-Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro resolver problemas complexos e contribuir com a comunidade de código aberto.
+Sou uma aprendiz desenvolvedora apaixonada por tecnologia e inovação.
 
 ## 🧑‍💻 Sobre Mim
 
@@ -12,19 +12,18 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro resolver pr
 
 Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade Newton Paiva. Atualmente, atuo como auxiliar administrativo na empresa RottaMaster Express e Logística. Aqui estão algumas das minhas principais habilidades e interesses:
 
-- 🔭 Atualmente estou trabalhando em [Projeto Atual]
-- 🌱 Atualmente estou aprendendo Linguagens de Programação, Análises de Dados, Cálculo I e II e Medidas Elétricas
-- 👯 Estou procurando colaborar em projetos de Desenvolvimento de Software e IA
-- 💬 Pergunte-me sobre Tecnologia, Design Gráfico e Marketing
-- 📫 Como me encontrar: [seuemail@dominio.com]
-- ⚡ Curiosidade: Apaixonada por gatos e pelo mundo da estética
+- 🔭 Atualmente estou trabalhando em https://github.com/Ingriidd/Pizzaria
+- 🌱 Atualmente estou aprendendo Linguagens de Programação, Análises de Dados, Cálculo I e II e Medidas Elétricas.
+- 👯 Estou procurando aprender mais e sobre projetos de Desenvolvimento de Software e IA.
+- 💬 Meus maiores interesse são: tecnologia, design gráfico e marketing digital.
+- 📹 Me aventuro como videomaker e modelo por diversão. 
+- 📫 Como me encontrar: ingridaparecidamg@gmail.com
+- ⚡ Curiosidade: Apaixonada por gatos e encantada pelo mundo da estética
 
 ## 🛠️ Habilidades
 
-- **Linguagens:** Python, JavaScript, C++, Ruby
-- **Frameworks:** React, Django, Node.js, Ruby on Rails
-- **Ferramentas:** Git, Docker, Kubernetes
-- **Metodologias:** Agile, Scrum
+- **Linguagens:** JavaScript e C++
+- **Banco de dados:* Xampp
 
 ## 📈 Estatísticas do GitHub
 
@@ -32,19 +31,16 @@ Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=radical)
 
-## 🏆 Conquistas
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=seuusername&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ## 🚀 Meus Projetos
 
 Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
-- [**Projeto 1**](https://github.com/seuprojeto1) - Descrição breve do projeto.
-![Project GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-- [**Projeto 2**](https://github.com/seuprojeto2) - Descrição breve do projeto.
+- [**Projeto 1**](https://github.com/Ingriidd/Pizzaria) - Desenvolvido para uma pizzaria mas abstrai qualquer estabelecimento comercial que permite ao cliente fazer pedidos e somente retirar ou pedir que seu pedido seja entregue em sua residência. O sistema apresenta views práticas e objetivas e uma ágil função de busca para clientes já cadastrados desobrigando o cliente a passar o endereço todas as vezes que realizar um pedido. Foi implementado um sólido sistema de gerenciamento de produtos e funcionários e um breve organizador de entregas de acordo com a disponibilidade de cada entregador.
+![Project GIF](https://github.com/Ingriidd/Vendas-Online) - Software para gestão de vendas e controle de estoque VendasNB. Contruido com padrão Java MVC (utilizado em muitos projetos devido à arquitetura que possui, o que possibilita a divisão do projeto em camadas muito bem definidas).
+- [**Projeto 2**](https://github.com/Ingriidd/TrabLotofacil) - Sistema de Loteria.
 ![Project GIF](https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif)
-- [**Projeto 3**](https://github.com/seuprojeto3) - Descrição breve do projeto.
+- [**Projeto 3**](https://github.com/Ingriidd/Ingriidd) - Meu readme
 ![Project GIF](https://media.giphy.com/media/3o6gDUfmjGOPlZRave/giphy.gif)
 
 ## 🌐 Conecte-se Comigo
