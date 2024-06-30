@@ -22,7 +22,7 @@
 </td>
 <td><a href="https://www.linkedin.com/in/ingrid-aparecida-166304228/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="calendly.com/ingridagendamentos/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/ingridagendamentos/30min" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
