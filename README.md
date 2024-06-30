@@ -55,12 +55,14 @@ Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade 
 
 - **Linguagens:** JavaScript e C++.
 - **Banco de dados:** Xampp.
-- **Design:** Canva e Adobo Photoshop.
+- **Design:** Canva e Adobe Photoshop.
 
 ## 📈 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=radical)
 
 
