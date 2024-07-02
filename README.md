@@ -31,7 +31,7 @@
 </table>
 
  
-# Olá! Eu sou Ingrid 👋
+# Olá! Me chamo Ingrid! 👋
 
 
 ![Welcome GIF](https://media.giphy.com/media/ZDxrPdX4Au7St8r36N/giphy.gif)
@@ -50,6 +50,7 @@ Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade 
 - 💬 Meus maiores interesse são: tecnologia de modo geral, design gráfico, arquitetura e marketing digital.
 - 📹 Me aventuro como videomaker e modelo por diversão. 
 - ⚡ Curiosidade: sou encantada pelo mundo da moda, beleza e estética.
+- 🔤 Inglês básico. 
 
 ## 🛠️ Habilidades
 
