@@ -98,5 +98,5 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 Obrigado por visitar meu perfil! Se você quiser colaborar ou apenas bater um papo, sinta-se à vontade para me contatar.
 
-![Robot GIF](https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png)
+![Robot PNG](https://github.com/Ingriidd/Imgens/blob/main/INGRID%20BYE.png)
 
