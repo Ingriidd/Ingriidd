@@ -36,7 +36,7 @@
 
 ![Welcome GIF](https://media.giphy.com/media/ZDxrPdX4Au7St8r36N/giphy.gif)
 
-> "Nós somos do mesmo tecido dos sonhos." - William Shakespeare
+> "As ideias das pessoas são pedaços da sua felicidade." - William Shakespeare
 
 Sou uma aprendiz desenvolvedora apaixonada por tecnologia e inovação.
 
