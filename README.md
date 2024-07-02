@@ -72,15 +72,15 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 - [**Projeto 1**](https://github.com/Ingriidd/Pizzaria) - Desenvolvido para uma pizzaria mas abstrai qualquer estabelecimento comercial que permite ao cliente fazer pedidos e somente retirar ou pedir que seu pedido seja entregue em sua residência. O sistema apresenta views práticas e objetivas e uma ágil função de busca para clientes já cadastrados desobrigando o cliente a passar o endereço todas as vezes que realizar um pedido. Foi implementado um sólido sistema de gerenciamento de produtos e funcionários e um breve organizador de entregas de acordo com a disponibilidade de cada entregador.
   
-![Login](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Login.PNG)
+![Clientes](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Clientes.PNG)
 
-- [**Projeto 2**](https://github.com/seuprojeto2) - Descrição breve do projeto.
+- [**Projeto 2**](https://github.com/Ingriidd/Vendas-Online) - Um projeto de software para gestão de vendas e controle de estoque VendasNB. Contruido com padrão Java MVC (utilizado em muitos projetos devido à arquitetura que possui, o que possibilita a divisão do projeto em camadas muito bem definidas).
   
-![Project GIF](https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif)
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/usuario.png"/>
 
-- [**Projeto 3**](https://github.com/seuprojeto3) - Descrição breve do projeto.
+- [**Projeto 3**](https://github.com/Ingriidd/TrabLotofacil) - Apresenta falhas em sua excução.  O projeto está em analise para melhoria. 
   
-![Project GIF](https://media.giphy.com/media/3o6gDUfmjGOPlZRave/giphy.gif)
+![Project GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGs1eWhqdTNma3c3OWV5b2VzbWh4d3lxOWczZGZ4bDVhcmZ1bGNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FaAxdPWZ7HKGmlnku7/giphy.gif)
 
 
 ## ✨ Curiosidades
