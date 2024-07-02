@@ -59,7 +59,7 @@ Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade 
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Ingriidd_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
 
