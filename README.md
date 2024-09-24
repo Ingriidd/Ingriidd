@@ -42,10 +42,9 @@ Sou uma aprendiz desenvolvedora apaixonada por tecnologia e inovação.
 
 ## 🧑‍💻 Sobre Mim
 
-Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade Newton Paiva. Atualmente, atuo como auxiliar administrativo na empresa RottaMaster Express e Logística. Aqui estão algumas das minhas principais habilidades e interesses:
+Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade Newton Paiva. Atualmente, atuo como estagiaria na empresa Prodemge. Aqui estão algumas das minhas principais habilidades e interesses:
 
-- 🔭 Atualmente estou desenvolvendo https://github.com/Ingriidd/Pizzaria
-- 🌱 Nesse semestre estou aprendendo Linguagens de Programação, Análises de Dados, Cálculo I e II e Medidas Elétricas.                                 
+- 🔭 Atualmente estou desenvolvendo https://github.com/Ingriidd/Pizzaria                                 
 - 👯 Estou procurando aprender mais sobre projetos de Desenvolvimento de Software e IA.
 - 💬 Meus maiores interesse são: tecnologia de modo geral, design gráfico, arquitetura e marketing digital.
 - 📹 Me aventuro como videomaker e modelo por diversão. 
