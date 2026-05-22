@@ -42,7 +42,7 @@ Sou uma aprendiz desenvolvedora apaixonada por tecnologia e inovação.
 
 ## 🧑‍💻 Sobre Mim
 
-Tenho 20 anos e estou graduando em Engenharia da Computação pela Universidade Newton Paiva. Atualmente, atuo como estagiaria na empresa Prodemge. Aqui estão algumas das minhas principais habilidades e interesses:
+Tenho 21 anos e estou graduando em Engenharia da Computação pela Universidade Newton Paiva. Atualmente, atuo como estagiaria na empresa Sympla. Aqui estão algumas das minhas principais habilidades e interesses:
 
 - 🔭 Atualmente estou desenvolvendo https://github.com/Ingriidd/Pizzaria                                 
 - 👯 Estou procurando aprender mais sobre projetos de Desenvolvimento de Software e IA.
